@@ -1,0 +1,2 @@
+# StakePool
+Private Stake pool
